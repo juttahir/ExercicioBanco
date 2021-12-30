@@ -1,0 +1,16 @@
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.csproj.AssemblyReference.cache
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.AssemblyInfoInputs.cache
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.AssemblyInfo.cs
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.exe
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.deps.json
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.runtimeconfig.json
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.runtimeconfig.dev.json
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.dll
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ref\ExercicioBanco.dll
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.pdb
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.dll
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ref\ExercicioBanco.dll
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.pdb
+C:\repos\Tunad.AdobeLogs\app\src\ExercicioBanco\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.genruntimeconfig.cache
